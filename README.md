@@ -67,10 +67,14 @@ Amazon QuickSight is used to visualize data quickly and effectively. Starting fr
 4. **Set Up QuickSight**
    - Sign up via AWS Console
    - Connect QuickSight to the S3 bucket (enable auto-discovery)
+   - ![image](https://github.com/user-attachments/assets/d2663bf5-68f2-4bff-b89b-699c11b11b9b)
+
 
 5. **Create Dataset in QuickSight**
    - Use the JSON to connect to the S3 data
    - Name and save the dataset
+   - ![image](https://github.com/user-attachments/assets/d044fc18-a0b3-40ec-8810-4288e312def5)
+
 
 6. **Visualize Data**
    - Drag and drop fields to create:
@@ -78,6 +82,8 @@ Amazon QuickSight is used to visualize data quickly and effectively. Starting fr
      - Pie charts
      - Line graphs
      - Sorted lists by brand, price, etc.
+     - ![image](https://github.com/user-attachments/assets/5ae932f2-b811-4c33-81fd-715893890431)
+
 
 ---
 
@@ -89,7 +95,8 @@ Displays products in alphabetical order using bar charts.
 
 
 ### Output 2: Top 20 Brands by Price (USD)
-A color-coded visualization comparing brand prices.\![image](https://github.com/user-attachments/assets/d38e7e5c-90ba-4749-b992-f3908b59febc)
+A color-coded visualization comparing brand prices.
+![image](https://github.com/user-attachments/assets/d38e7e5c-90ba-4749-b992-f3908b59febc)
 
 
 ---
